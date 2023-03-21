@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183642503735",
+    "project_id": "user-bd3bc",
+    "storage_bucket": "user-bd3bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183642503735:android:b1608b286f93f0e66d5db2",
+        "android_client_info": {
+          "package_name": "com.team7.newhope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183642503735-9u7bkolhdcp4ostlbbvvnqqcufe300kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihZtimBp8I1PogTa-wU8cxI0o8Yt2rWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183642503735-9u7bkolhdcp4ostlbbvvnqqcufe300kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
